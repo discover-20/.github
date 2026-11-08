@@ -12,7 +12,7 @@
 <p align="center">
   🌐 <a href="https://discover20.com"><b>discover20.com</b></a> &nbsp;·&nbsp;
   📸 <a href="https://www.instagram.com/discover20_"><b>Instagram</b></a> &nbsp;·&nbsp;
-  ✉️ <a href="mailto:info@discover20.com"><b>info@discover20.com</b></a>
+  ✉️ <a href="mailto:Walaa.nasr@discover20.com"><b>Walaa.nasr@discover20.com</b></a>
 </p>
 
 ---
