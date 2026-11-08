@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://discover20.com"><img alt="Website" src="https://img.shields.io/badge/discover20.com-1ABBBC?style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.instagram.com/discover20_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-F05E5E?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:info@discover20.com"><img alt="Email" src="https://img.shields.io/badge/info@discover20.com-5A4D9F?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  🌐 <a href="https://discover20.com"><b>discover20.com</b></a> &nbsp;·&nbsp;
+  📸 <a href="https://www.instagram.com/discover20_"><b>Instagram</b></a> &nbsp;·&nbsp;
+  ✉️ <a href="mailto:info@discover20.com"><b>info@discover20.com</b></a>
 </p>
 
 ---
@@ -30,11 +30,11 @@
 ### 🎨 Our brand
 
 <p>
-  <img alt="Teal" src="https://img.shields.io/badge/Teal-%231ABBBC-1ABBBC?style=flat-square">
-  <img alt="Coral" src="https://img.shields.io/badge/Coral-%23F05E5E-F05E5E?style=flat-square">
-  <img alt="Purple" src="https://img.shields.io/badge/Purple-%235A4D9F-5A4D9F?style=flat-square">
-  <img alt="Yellow" src="https://img.shields.io/badge/Yellow-%23FFD545-FFD545?style=flat-square">
-  <img alt="Green" src="https://img.shields.io/badge/Green-%2386C559-86C559?style=flat-square">
+  <img alt="Teal #1ABBBC" src="assets/color-teal.svg" width="120">
+  <img alt="Coral #F05E5E" src="assets/color-coral.svg" width="120">
+  <img alt="Purple #5A4D9F" src="assets/color-purple.svg" width="120">
+  <img alt="Yellow #FFD545" src="assets/color-yellow.svg" width="120">
+  <img alt="Green #86C559" src="assets/color-green.svg" width="120">
 </p>
 
 Fonts: **Nunito** (Latin) and **Tajawal** (Arabic).
